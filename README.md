@@ -1,4 +1,4 @@
-# AI Projects
+# Personal AI Projects
 
 ## Animal Classification  
 [Project](https://github.com/Wilann/Animal-Classification)  
